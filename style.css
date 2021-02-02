@@ -1,0 +1,83 @@
+body{
+    font-family: 'Roboto Slab', serif;
+    margin: 0%;
+}
+h1{
+    font-size: 50px;
+}
+h2{
+    font-size: 40px;
+}
+.name{
+    color: orange;
+}
+.new{
+    width: 40%;
+    float: left;
+    padding-left: 2%;
+}
+#hot img{
+   
+    width: 500px;
+    height: 500px;
+    padding-left: 250px;
+}
+.top{
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
+    padding-bottom: 150px;
+ 
+}
+section{
+    height: 500px;
+    
+}
+.button{
+    text-decoration: none;
+    background-image: linear-gradient(green, yellow );
+    padding: 10px 20px;
+    color: white;
+    font-weight: 700;
+}
+#pink img{
+  widows: 450px;
+  height: 450px;
+}
+.berry{
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
+.white{
+   padding-left: 15px;
+   background-image: url(images/exp-bg.png);
+   background-repeat: no-repeat;
+   background-position: left;
+}
+.cute{
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 15px;
+    height: 80%;
+    margin: 20px;
+    }
+    .neww{
+        width: 43%;
+        float: left;
+        padding-left: 2%;
+    }
+    #full{
+        border-left: 7px solid;
+        border-image: linear-gradient(lightsalmon, tomato);
+        border-image-slice: 1;
+    }
+    #baby{
+        border-left: 7px solid;
+        border-image: linear-gradient(blue,cyan);
+        border-image-slice: 1;
+    }
+    div{
+        background-color: white;
+    }
+    #ruma{
+        text-align: center;
+    }
